@@ -1,0 +1,9 @@
+Dear User,
+
+    You're almost logged in. Please enter the following 9-digit OTPP code 
+    when prompted to gain access to your account: 
+    (OTPP)
+
+Thanks,
+Junjut Team
+
